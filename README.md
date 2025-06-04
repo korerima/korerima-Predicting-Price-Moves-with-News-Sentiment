@@ -20,9 +20,6 @@ Visualize sentiment distribution, price trends, RSI, MACD, and correlation patte
 This project uses Python 3.9+ and is designed to run in a Jupyter Notebook or Google Colab environment.
 
 1. Clone the Repository
-bash
-Copy
-Edit
 git clone https://github.com/your-username/news-sentiment-stock-correlation.git
 cd news-sentiment-stock-correlation
 2. Set Up a Virtual Environment (Optional but Recommended)
